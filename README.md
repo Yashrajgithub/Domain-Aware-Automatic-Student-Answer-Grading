@@ -1,8 +1,6 @@
 # Domain-Aware Automatic Student Answer Grading
 
 **M.Tech Data Science Mini Project**\
-**Author:** Yashraj Kalshetti\
-**Institution:** COEP Technological University
 
 ## Overview
 
