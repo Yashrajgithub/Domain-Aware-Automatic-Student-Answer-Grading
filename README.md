@@ -250,11 +250,6 @@ Open the local URL printed by Streamlit in your browser.
 Python · NLP · Sentence Transformers · TF-IDF · scikit-learn · Random
 Forest Regression · Streamlit · Pandas
 
-## Author
-
-**Yashraj Kalshetti**\
-M.Tech Data Science, COEP Technological University
-
 ## GitHub Repository
 
 [Domain-Aware Automatic Student Answer
