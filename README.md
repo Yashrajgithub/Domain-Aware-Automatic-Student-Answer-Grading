@@ -1,6 +1,6 @@
 # Domain-Aware Automatic Student Answer Grading
 
-**M.Tech Data Science Mini Project**\
+**M.Tech Data Science Mini Project**
 
 ## Overview
 
