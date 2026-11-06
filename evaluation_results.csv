@@ -1,0 +1,10 @@
+id,domain,type,baseline_score,contradiction_probability,experimental_score,concept_coverage,matched_concepts,missing_concepts
+ML1,ml,Correct,7.4,0.0006,7.4,1.0,discrete labels; continuous values,
+ML2,ml,Contradictory,7.29,0.9947,3.65,1.0,discrete labels; continuous values,
+ML3,ml,Partial,6.06,0.0008,6.06,0.5,discrete labels,continuous values
+ML4,ml,Irrelevant,2.24,0.0086,2.24,0.0,,discrete labels; continuous values
+DE1,de,Correct,9.71,0.0001,9.71,0.333,twice,receiver; process
+DE2,de,Contradictory,5.93,0.9965,2.96,0.0,,receiver; process; twice
+DE3,de,Partial,5.39,0.0004,5.39,0.0,,receiver; process; twice
+G1,general,Correct,9.39,0.0003,9.39,0.667,ice; less dense,water
+G2,general,Contradictory,8.85,0.9989,4.42,0.667,ice; less dense,water

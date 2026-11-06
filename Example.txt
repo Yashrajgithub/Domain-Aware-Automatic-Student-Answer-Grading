@@ -1,0 +1,33 @@
+Domain: General / Theory
+
+Question:
+Why does ice float on liquid water?
+
+Reference answer: 
+Ice floats on liquid water because it is less dense than liquid water. When water freezes, hydrogen bonds form an open crystalline structure that occupies more volume, reducing its density.
+
+Student answer: 
+Ice floats on water because it is less dense than liquid water. When water freezes, hydrogen bonds create an open crystal structure, causing the ice to occupy more volume and have a lower density than liquid water.
+
+
+Domain: Machine Learning
+
+Question: 
+Differentiate classification and regression in machine learning.
+
+Reference answer: 
+Classification is a supervised learning task that predicts discrete classes or categorical labels. Regression is a supervised learning task that predicts continuous numerical values. For example, classifying an email as spam or not spam is classification, while predicting a house price is regression.
+
+Student answer: 
+Classification predicts discrete categories or labels, such as whether an email is spam or not spam. Regression predicts continuous numerical values, such as the price of a house. Both are supervised learning techniques, but they differ in the type of output they predict.
+
+Domain: Data Engineering
+
+Question: 
+Why is duplicate packet detection important in a data transmission system?
+
+Reference answer: 
+Duplicate packet detection identifies packets that have been received more than once. Removing or ignoring duplicates prevents redundant processing, avoids duplicate data in the destination system, and helps maintain data integrity. Sequence numbers, packet identifiers, or unique message IDs can be used to detect duplicates.
+
+Student answer: 
+Duplicate packet detection identifies packets that arrive multiple times. The system can use sequence numbers or unique packet identifiers to recognize duplicates and discard or ignore them. This prevents redundant processing, avoids repeated records, and helps maintain data integrity.
